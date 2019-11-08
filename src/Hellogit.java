@@ -23,6 +23,7 @@ public class Hellogit {
         System.out.println("Adding new feature");
         System.out.println("help");
         System.out.println("help");
+        System.out.println("finish");
 
     }
 }
