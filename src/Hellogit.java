@@ -24,6 +24,7 @@ public class Hellogit {
         System.out.println("help");
         System.out.println("help");
         System.out.println("finish");
+        System.out.println("done");
 
     }
 }
