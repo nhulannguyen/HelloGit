@@ -20,5 +20,11 @@ public class Hellogit {
         System.out.println("developing....");
         System.out.println("developing....");
         System.out.println("developing....");
+        System.out.println("Adding new feature");
+        System.out.println("help");
+        System.out.println("help");
+        System.out.println("finish");
+        System.out.println("done");
+
     }
 }
